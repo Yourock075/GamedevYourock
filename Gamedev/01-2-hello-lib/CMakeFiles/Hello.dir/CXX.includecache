@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yura/snap/Gamedev/01-2-hello-lib/src/hello.cpp
+iostream
+-
+hello.h
+/home/yura/snap/Gamedev/01-2-hello-lib/src/hello.h
+
+include/hello.h
+cstdlib
+-
+

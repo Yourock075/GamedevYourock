@@ -1,0 +1,10 @@
+#ifndef HELLO_H_INCLUDED
+#define HELLO_H_INCLUDED
+greet()
+{
+cout.good() ? EXIT_SUCCESS : EXIT_FAILURE;
+}
+
+
+
+#endif 

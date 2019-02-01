@@ -1,0 +1,7 @@
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/install/strip.dir
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/edit_cache.dir
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/rebuild_cache.dir
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/list_install_components.dir
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/install/local.dir
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/Hello.dir
+/home/yura/snap/Gamedev/01-2-hello-lib/CMakeFiles/install.dir
